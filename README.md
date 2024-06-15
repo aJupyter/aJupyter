@@ -46,10 +46,11 @@
 - …
 
 # 🏆 Honors
-- High-quality content creator in the field of Artificial Intelligence on [CSDN](https://blog.csdn.net/qq_49821869?spm=1000.2115.3001.5343).
-- EmoLLM，Achieved Top 15 in the Shusheng·Puyu Large Model Challenge (Spring Season), winning the Creative Application Award.
-- Master's recommended-exempt student, outstanding undergraduate graduate, and ranked 1st out of 69 in major.
-- Shusheng·Puyu Large Model Practical Camp: Excellent campers, excellent teaching assistants (class size 55 in total)
+- [2024.6] Project for 2nd place worldwide in the AI track of the Ali Global Maths Competition 2024
+- [2024.3] EmoLLM，Achieved Top 15 in the Shusheng·Puyu Large Model Challenge (Spring Season), winning the Creative Application Award.
+- [2023.9] Master's recommended-exempt student, outstanding undergraduate graduate, and ranked 1st out of 69 in major.
+- [2024.1-5] Shusheng·Puyu Large Model Practical Camp: Excellent campers, excellent teaching assistants (class size 55 in total)
+- [2020 - now] High-quality content creator in the field of Artificial Intelligence on [CSDN](https://blog.csdn.net/qq_49821869?spm=1000.2115.3001.5343).
 - …
 
 #  🤗 GitHub Stats 
