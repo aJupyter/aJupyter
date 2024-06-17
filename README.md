@@ -46,7 +46,7 @@
 - …
 
 # 🏆 Main Honors
-- [2024.6] Project for 2nd place worldwide in the AI track of the Ali Global Maths Competition 2024
+- [2024.6] [Math-Multi-Agent](https://github.com/isaacJinyu/Math-Multi-Agent): Project for 2nd place worldwide in the AI track of the Ali Global Maths Competition 2024
 - [2024.3] EmoLLM，Achieved Top 15 in the Shusheng·Puyu Large Model Challenge (Spring Season), winning the Creative Application Award.
 - [2024.1-5] Shusheng·Puyu Large Model Practical Camp: Excellent campers, excellent teaching assistants (class size 55 in total)
 - [2022.9] Master's recommended-exempt student, outstanding undergraduate graduate, and ranked 1st out of 69 in major.
