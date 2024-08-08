@@ -24,12 +24,14 @@
   
 </div>
 
+----
+
 #   👨‍🎓 About Me
 - 👋 Hello everyone, I am a graduate student currently studying at Nankai University(NKU).
 - 💬 My research interests and focus areas include: Natural Language Processing (NLP), Large Language Models (LLM), and Retrieval-Augmented Generation (RAG).
 - 📖 I am a high-quality content creator in the field of Artificial Intelligence on CSDN (China Software Developer Network).
 - 🪁 Hobbies and interests: Running, playing badminton, taking walks, watching movies.
-
+----
 
 # 🌼 Open source experience
 | Project | Introduction | Note |
@@ -43,6 +45,8 @@
 | [NLP2Hero](https://github.com/aJupyter/NLP2Hero)  | A quality repository for collecting NLP-related materials. | Sponsor |
 | [Shusheng·Puyu Large Model Practical Camp](https://github.com/InternLM/tutorial/)  | Two periods of teaching assistants: Teaching Assistant | Member |
 
+----
+
 
 # 🏆 Main Honors
 - [2024.6] [Math-Multi-Agent](https://github.com/isaacJinyu/Math-Multi-Agent): Project for 2nd place worldwide in the AI track of the Ali Global Maths Competition 2024
@@ -50,7 +54,8 @@
 - [2024.1-5] Shusheng·Puyu Large Model Practical Camp: Excellent campers, excellent teaching assistants (class size 55 in total)
 - [2022.9] Master's recommended-exempt student, outstanding undergraduate graduate, and ranked 1st out of 69 in major.
 - [2020 - now] High-quality content creator in the field of Artificial Intelligence on [CSDN](https://blog.csdn.net/qq_49821869?spm=1000.2115.3001.5343).
-- …
+
+----
 
 #  🤗 GitHub Stats 
 <div>
