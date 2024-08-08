@@ -32,18 +32,17 @@
 
 
 # 🌼 Open source experience
-## As a sponsor
-- [EmoLLM](https://github.com/SmartFlowAI/EmoLLM): EmoLLM is a series of large language models designed to understand, support and help customers in mental health counseling. It is fine-tuned from the LLM instructions.
-- [Awesome-LLM-paper](https://github.com/aJupyter/Awesome-LLM-paper): This repository contains papers related to all kinds of LLMs.
-- [NLP2Hero](https://github.com/aJupyter/NLP2Hero): A quality repository for collecting NLP-related materials.
-- …
+| Project | Introduction | Note |
+| ----------- | ----------- | ----------- |
+| [EmoLLM](https://github.com/SmartFlowAI/EmoLLM)  | EmoLLM is a series of large language models designed to understand, support and help customers in mental health counseling. It is fine-tuned from the LLM instructions. | Sponsor |
+| [LLMs From Scratch: Hands-on Building Your Own Large Language Models](https://github.com/datawhalechina/llms-from-scratch-cn)  | Preparation of part of the content: Implement a Chinese version of the Large Language Model (LLM).| Member |
+| [Math-Multi-Agent](https://github.com/isaacJinyu/Math-Multi-Agent)  | Project for 2nd place worldwide in the AI track of the Ali Global Maths Competition 2024.| Member |
+| [LLM-Dojo](https://github.com/mst272/LLM-Dojo) | An Open Source Large Model Training Framework| Member |
+| [Tianji](https://github.com/SocialAI-tianji/Tianji)  | Fine-tuning LLM: Tianji is a free, non-commercial artificial intelligence system. You can utilize it for tasks involving worldly wisdom, such as "art of conversation," to enhance your emotional intelligence and core competitiveness. | Member |
+| [Awesome-LLM-paper](https://github.com/aJupyter/Awesome-LLM-paper)  | This repository contains papers related to all kinds of LLMs. | Sponsor |
+| [NLP2Hero](https://github.com/aJupyter/NLP2Hero)  | A quality repository for collecting NLP-related materials. | Sponsor |
+| [Shusheng·Puyu Large Model Practical Camp](https://github.com/InternLM/tutorial/)  | Two periods of teaching assistants: Teaching Assistant | Member |
 
-
-## As a member
-- [Tianji](https://github.com/SocialAI-tianji/Tianji) | Fine-tuning LLM: Tianji is a free, non-commercial artificial intelligence system. You can utilize it for tasks involving worldly wisdom, such as "art of conversation," to enhance your emotional intelligence and core competitiveness. 
-- [LLMs From Scratch: Hands-on Building Your Own Large Language Models](https://github.com/datawhalechina/llms-from-scratch-cn) | Preparation of part of the content: Implement a Chinese version of the Large Language Model (LLM).
-- [Shusheng·Puyu Large Model Practical Camp](https://github.com/InternLM/tutorial/) | Two periods of teaching assistants: Teaching Assistant
-- …
 
 # 🏆 Main Honors
 - [2024.6] [Math-Multi-Agent](https://github.com/isaacJinyu/Math-Multi-Agent): Project for 2nd place worldwide in the AI track of the Ali Global Maths Competition 2024
