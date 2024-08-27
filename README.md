@@ -24,7 +24,7 @@
 </div>
 <br />
 <div align="center">
- <a href="README_zh.md" >简体中文| English</a>
+ <a href="README_zh.md" >简体中文</a> | English
     <br />
 </div>
 
