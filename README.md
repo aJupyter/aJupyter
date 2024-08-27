@@ -21,7 +21,11 @@
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=aJupyter&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
-  
+</div>
+<br />
+<div align="center">
+ 简体中文| <a href="README.md" >English</a>
+    <br />
 </div>
 
 ----
