@@ -48,7 +48,6 @@
 | [Math-Multi-Agent](https://github.com/isaacJinyu/Math-Multi-Agent)  | Project for 2nd place worldwide in the AI track of the Ali Global Maths Competition 2024.| Member ![](https://img.shields.io/github/stars/isaacJinyu/Math-Multi-Agent?style=social) |
 | [Tianji](https://github.com/SocialAI-tianji/Tianji)  | Fine-tuning LLM: Tianji is a free, non-commercial artificial intelligence system. You can utilize it for tasks involving worldly wisdom, such as "art of conversation," to enhance your emotional intelligence and core competitiveness. | Member ![](https://img.shields.io/github/stars/SocialAI-tianji/Tianji?style=social)|
 | [Awesome-LLM-paper](https://github.com/aJupyter/Awesome-LLM-paper)  | This repository contains papers related to all kinds of LLMs. | Sponsor ![](https://img.shields.io/github/stars/aJupyter/Awesome-LLM-paper?style=social)|
-| [NLP2Hero](https://github.com/aJupyter/NLP2Hero)  | A quality repository for collecting NLP-related materials. | Sponsor ![](https://img.shields.io/github/stars/aJupyter/NLP2Hero?style=social)|
 | [Shusheng·Puyu Large Model Practical Camp](https://github.com/InternLM/tutorial/)  | Two periods of teaching assistants: Teaching Assistant | Member ![](https://img.shields.io/github/stars/InternLM/tutorial?style=social) |
 
 ----
