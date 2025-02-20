@@ -30,7 +30,7 @@
 
 # 👨‍🎓 关于我
 - 👋 大家好，我是南开大学（NKU）的在读研究生。
-- 💬 我的研究兴趣和专注领域包括：大语言模型（LLM）、多模态大语言模型（MLLM）和检索增强生成（RAG）。
+- 💬 我的研究兴趣和专注领域包括：大语言模型（LLM）、多模态大语言模型（MLLM）和智能体（Agent）。
 - 📖 我是 CSDN 人工智能领域优质创作者。
 - 🪁 爱好和兴趣：跑步、打羽毛球、散步、看电影。
 ----
@@ -46,7 +46,6 @@
 | [Math-Multi-Agent](https://github.com/isaacJinyu/Math-Multi-Agent)   | 2024年阿里全球数学竞赛 AI 赛道全球第二名的项目。| 参与贡献 ![](https://img.shields.io/github/stars/isaacJinyu/Math-Multi-Agent?style=social)  |
 | [Tianji](https://github.com/SocialAI-tianji/Tianji)   | 微调 LLM：Tianji 是一个免费、非商业性的人工智能系统。你可以利用它来完成涉及世间智慧的任务，如“谈话艺术”，以增强你的情感智力和核心竞争力。 | 参与贡献 ![](https://img.shields.io/github/stars/SocialAI-tianji/Tianji?style=social)| 
 | [Awesome-LLM-paper](https://github.com/aJupyter/Awesome-LLM-paper)   | 这个仓库包含了各种 LLM 相关的论文。 | 发起人 ![](https://img.shields.io/github/stars/aJupyter/Awesome-LLM-paper?style=social)| 
-| [NLP2Hero](https://github.com/aJupyter/NLP2Hero)   | 一个收集 NLP 相关材料的高质量仓库。 | 发起人 ![](https://img.shields.io/github/stars/aJupyter/NLP2Hero?style=social)| 
 | [Shusheng·Puyu Large Model Practical Camp](https://github.com/InternLM/tutorial/)   | 两期助教 | 参与贡献 ![](https://img.shields.io/github/stars/InternLM/tutorial?style=social)  |
 
 ----
