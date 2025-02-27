@@ -2,7 +2,7 @@
   
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
-    <a href="https://blog.sunguoqi.com/"> 
+    <a href="https://ajupyter.github.io/"> 
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Have a pleasant day!&center=true&size=27" />
     </a>
   </div>
