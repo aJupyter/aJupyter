@@ -32,7 +32,7 @@
 
 #   👨‍🎓 About Me
 - 👋 Hello everyone, I am a graduate student currently studying at Nankai University(NKU).
-- 💬 My research interests and focus areas include: Large Language Models (LLM), Multimodal Large Language Model (MLLM) and Agent (Agent).
+- 💬 My research interests and focus areas include: Large Language Models (LLM), Multimodal Large Language Model (MLLM) and Agent.
 - 📖 I am a high-quality content creator in the field of Artificial Intelligence on CSDN (China Software Developer Network).
 - 🪁 Hobbies and interests: Running, playing badminton, taking walks, watching movies.
 ----
