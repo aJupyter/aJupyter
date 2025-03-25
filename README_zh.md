@@ -30,23 +30,26 @@
 
 # 👨‍🎓 关于我
 - 👋 大家好，我是南开大学（NKU）的在读研究生。
-- 💬 我的研究兴趣和专注领域包括：大语言模型（LLM）、多模态大语言模型（MLLM）和智能体（Agent）。
+- 💬 我的研究兴趣和专注领域包括：大语言模型（LLM）、多模态大语言模型（MLLM）和智能体（Agentic system）。
 - 📖 我是 CSDN 人工智能领域优质创作者。
 - 🪁 爱好和兴趣：跑步、打羽毛球、散步、看电影。
+- 📫交流与合作：ajupyter@163.com
 ----
 
 # 🌼 开源经历
 | 项目 | 介绍 | 备注 |
 | ----------- | ----------- | ----------- |
 | [EmoLLM](https://github.com/SmartFlowAI/EmoLLM)   | EmoLLM 是一系列旨在理解、支持和帮助心理健康咨询的大型语言模型，从 LLM 指令微调而来的。 | 发起人 ![](https://img.shields.io/github/stars/SmartFlowAI/EmoLLM?style=social)| 
+| [ThinkLLM](https://github.com/aJupyter/ThinkLLM)   | ThinkLLM：大语言模型算法与组件实现。 | 发起人 ![](https://img.shields.io/github/stars/aJupyter/ThinkLLM?style=social)| 
 | [xtuner](https://github.com/InternLM/xtuner)   | 一个高效、灵活且功能齐全的工具包，用于微调 LLM（InternLM2、Llama3、Phi3、Qwen、Mistral ...）。 | 参与贡献 ![](https://img.shields.io/github/stars/InternLM/xtuner?style=social)  |
 | [FlashRAG](https://github.com/RUC-NLPIR/FlashRAG)   | ⚡FlashRAG：一个高效的 RAG 研究 Python 工具包。| 参与贡献 ![](https://img.shields.io/github/stars/RUC-NLPIR/FlashRAG?style=social)  |
 | [LLMs From Scratch: Hands-on Building Your Own Large Language Models](https://github.com/datawhalechina/llms-from-scratch-cn)   | 撰写部分内容：实现中文版的大语言模型（LLM）。| 参与贡献 ![](https://img.shields.io/github/stars/datawhalechina/llms-from-scratch-cn?style=social)  |
 | [LLM-Dojo](https://github.com/mst272/LLM-Dojo)  | 一个开源的大型模型训练框架。| 参与贡献 ![](https://img.shields.io/github/stars/mst272/LLM-Dojo?style=social)| 
 | [Math-Multi-Agent](https://github.com/isaacJinyu/Math-Multi-Agent)   | 2024年阿里全球数学竞赛 AI 赛道全球第二名的项目。| 参与贡献 ![](https://img.shields.io/github/stars/isaacJinyu/Math-Multi-Agent?style=social)  |
 | [Tianji](https://github.com/SocialAI-tianji/Tianji)   | 微调 LLM：Tianji 是一个免费、非商业性的人工智能系统。你可以利用它来完成涉及世间智慧的任务，如“谈话艺术”，以增强你的情感智力和核心竞争力。 | 参与贡献 ![](https://img.shields.io/github/stars/SocialAI-tianji/Tianji?style=social)| 
-| [Awesome-LLM-paper](https://github.com/aJupyter/Awesome-LLM-paper)   | 这个仓库包含了各种 LLM 相关的论文。 | 发起人 ![](https://img.shields.io/github/stars/aJupyter/Awesome-LLM-paper?style=social)| 
 | [Shusheng·Puyu Large Model Practical Camp](https://github.com/InternLM/tutorial/)   | 两期助教 | 参与贡献 ![](https://img.shields.io/github/stars/InternLM/tutorial?style=social)  |
+| [Awesome-LLM-paper](https://github.com/aJupyter/Awesome-LLM-paper)   | 这个仓库包含了各种 LLM 相关的论文。 | 发起人 ![](https://img.shields.io/github/stars/aJupyter/Awesome-LLM-paper?style=social)| 
+
 
 ----
 

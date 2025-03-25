@@ -32,23 +32,25 @@
 
 #   👨‍🎓 About Me
 - 👋 Hello everyone, I am a graduate student currently studying at Nankai University(NKU).
-- 💬 My research interests and focus areas include: Large Language Models (LLM), Multimodal Large Language Model (MLLM) and Agent.
+- 💬 My research interests and focus areas include: Large Language Models (LLM), Multimodal Large Language Model (MLLM) and Agentic system.
 - 📖 I am a high-quality content creator in the field of Artificial Intelligence on CSDN (China Software Developer Network).
 - 🪁 Hobbies and interests: Running, playing badminton, taking walks, watching movies.
+- 📫 Communication and Collaboration: ajupyter@163.com
 ----
 
 # 🌼 Open source experience
 | Project | Introduction | Note |
 | ----------- | ----------- | ----------- |
 | [EmoLLM](https://github.com/SmartFlowAI/EmoLLM)  | EmoLLM is a series of large language models designed to understand, support and help customers in mental health counseling. It is fine-tuned from the LLM instructions. | Sponsor ![](https://img.shields.io/github/stars/SmartFlowAI/EmoLLM?style=social)|
+| [ThinkLLM](https://github.com/aJupyter/ThinkLLM)   | ThinkLLM: Algorithms and Component Implementation of Large Language Models. | Sponsor ![](https://img.shields.io/github/stars/aJupyter/ThinkLLM?style=social)| 
 | [xtuner](https://github.com/InternLM/xtuner)  | An efficient, flexible and full-featured toolkit for fine-tuning LLM (InternLM2, Llama3, Phi3, Qwen, Mistral, ...) | Member ![](https://img.shields.io/github/stars/InternLM/xtuner?style=social) |
 | [FlashRAG](https://github.com/RUC-NLPIR/FlashRAG)  | ⚡FlashRAG: A Python Toolkit for Efficient RAG Research.| Member ![](https://img.shields.io/github/stars/RUC-NLPIR/FlashRAG?style=social) |
 | [LLMs From Scratch: Hands-on Building Your Own Large Language Models](https://github.com/datawhalechina/llms-from-scratch-cn)  | Preparation of part of the content: Implement a Chinese version of the Large Language Model (LLM).| Member ![](https://img.shields.io/github/stars/datawhalechina/llms-from-scratch-cn?style=social) |
 | [LLM-Dojo](https://github.com/mst272/LLM-Dojo) | An Open Source Large Model Training Framework| Member ![](https://img.shields.io/github/stars/mst272/LLM-Dojo?style=social)|
 | [Math-Multi-Agent](https://github.com/isaacJinyu/Math-Multi-Agent)  | Project for 2nd place worldwide in the AI track of the Ali Global Maths Competition 2024.| Member ![](https://img.shields.io/github/stars/isaacJinyu/Math-Multi-Agent?style=social) |
 | [Tianji](https://github.com/SocialAI-tianji/Tianji)  | Fine-tuning LLM: Tianji is a free, non-commercial artificial intelligence system. You can utilize it for tasks involving worldly wisdom, such as "art of conversation," to enhance your emotional intelligence and core competitiveness. | Member ![](https://img.shields.io/github/stars/SocialAI-tianji/Tianji?style=social)|
-| [Awesome-LLM-paper](https://github.com/aJupyter/Awesome-LLM-paper)  | This repository contains papers related to all kinds of LLMs. | Sponsor ![](https://img.shields.io/github/stars/aJupyter/Awesome-LLM-paper?style=social)|
 | [Shusheng·Puyu Large Model Practical Camp](https://github.com/InternLM/tutorial/)  | Two periods of teaching assistants: Teaching Assistant | Member ![](https://img.shields.io/github/stars/InternLM/tutorial?style=social) |
+| [Awesome-LLM-paper](https://github.com/aJupyter/Awesome-LLM-paper)  | This repository contains papers related to all kinds of LLMs. | Sponsor ![](https://img.shields.io/github/stars/aJupyter/Awesome-LLM-paper?style=social)|
 
 ----
 
